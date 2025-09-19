@@ -1,4 +1,2 @@
 # python
-python projects
-
-first python file
+practising python
